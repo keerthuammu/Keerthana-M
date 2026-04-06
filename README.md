@@ -5,8 +5,8 @@ Frontend Developer | Student | Tech Enthusiast
 
 🧠 About Me
 I’m a student passionate about building user-friendly and responsive web applications.
-
 I focus mainly on frontend development and enjoy turning ideas into interactive interfaces using clean and efficient code. While I’m not a UI/UX designer, I work on implementing designs into functional and responsive applications.
+
 
 💻 Core focus: Frontend development with React.js
 🌐 Skills: HTML, CSS, JavaScript, TypeScript
@@ -24,7 +24,6 @@ Databases     MySQL
 
 
 📫 Connect With Me
-
 🌐 Portfolio: https://keerthuammu.github.io/KeerthanaM_portfolio/ 
 
 💼 LinkedIn: www.linkedin.com/in/keerthana-m-9207772b4
