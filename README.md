@@ -1,34 +1,56 @@
-👋 Hi, I’m KEERTHANA M.
+<h1 align="center">👋 Hi, I'm Keerthu</h1>
 
-Frontend Developer | Student | Tech Enthusiast
+<h3 align="center">Frontend Developer | Student | Tech Enthusiast</h3>
+
+---
+
+## 🧠 About Me
+- 🎓 I’m a student passionate about web development  
+- 💻 Focused on building responsive and interactive frontend applications  
+- ⚡ I enjoy writing clean, efficient code  
+- 🚀 Currently learning full-stack development step by step  
+- 🎯 Goal: To become a skilled frontend developer and grow into full-stack engineering  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🎨 Styling & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keerthuammu&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthuammu&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+- 🔹 **Bus Tracking App** – Live tracking with real-time updates  
+- 🔹 **Student Complaint System** – Django-based web app  
+- 🔹 **AI Chatbot Project** – Streamlit-based chatbot  
+- 🔹 More projects coming soon...
 
 
-🧠 About Me
-I’m a student passionate about building user-friendly and responsive web applications.
-I focus mainly on frontend development and enjoy turning ideas into interactive interfaces using clean and efficient code. While I’m not a UI/UX designer, I work on implementing designs into functional and responsive applications.
+## 📫 Connect With Me
 
+- 💼 LinkedIn: [Add your link]
+- 🌐 Portfolio: [Add your portfolio]
+- 📧 Email: [Add your email]
 
-💻 Core focus: Frontend development with React.js
-🌐 Skills: HTML, CSS, JavaScript, TypeScript
-⚙️ Tools & Libraries: React.js, Git
-🔌 Interested in: APIs integration and real-world project development
-🎯 Goal: To become a strong frontend developer and gradually grow into a full-stack engineer
-
-
-🧰 Tech Stack
-Domain        Tools & Technologies
-Frontend      React.js · HTML · CSS · JavaScript · TypeScript
-Tools         Git · GitHub · VS Code
-Backend (Learning)  Node.js · Express.js (basic knowledge)
-Databases     MySQL 
-
-
-📫 Connect With Me
-
-🌐 Portfolio: https://keerthuammu.github.io/KeerthanaM_portfolio/ 
-
-💼 LinkedIn: www.linkedin.com/in/keerthana-m-9207772b4
-
-📧 Email: mkeerthana2909@gmail.com
+---
 
 ⭐️ “I build clean, functional interfaces and continuously improve my development skills.”
