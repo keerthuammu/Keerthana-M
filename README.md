@@ -23,16 +23,8 @@ Backend (Learning)  Node.js · Express.js (basic knowledge)
 Databases     MySQL 
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="180"/>
-</p>
-
-
 📫 Connect With Me
-🌐 Portfolio: https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fkeerthuammu%2Egithub%2Eio%2FKeerthanaM_portfolio%2F&urlhash=HJy2&trk=public_profile-settings_website
+🌐 Portfolio: https://keerthuammu.github.io/KeerthanaM_portfolio/ 
 
 💼 LinkedIn: www.linkedin.com/in/keerthana-m-9207772b4
 
